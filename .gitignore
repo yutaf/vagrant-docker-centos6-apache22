@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.envrc
+!.dockerignore
+
+/www/*
+!/www/htdocs
+/www/htdocs/*
+!/www/htdocs/index.html
